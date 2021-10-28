@@ -5,3 +5,9 @@ Learning to use Github
 - Gilberto Echeverria
 - Luke Skywalker
 - Leia Organa
+
+## Changes
+
+- paint.py
+	- Added magenta color
+	- Added rectangle function
