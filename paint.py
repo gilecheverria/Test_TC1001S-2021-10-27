@@ -9,6 +9,8 @@ Exercises
 5. Add width parameter.
 
 Testing using GitHub
+
+Gilberto Echeverria
 """
 
 from turtle import *
@@ -94,6 +96,7 @@ onkey(lambda: color('green'), 'G')
 onkey(lambda: color('blue'), 'B')
 onkey(lambda: color('red'), 'R')
 onkey(lambda: color('cyan'), 'C')
+onkey(lambda: color('magenta'), 'M')
 onkey(lambda: store('shape', line), 'l')
 onkey(lambda: store('shape', square), 's')
 onkey(lambda: store('shape', circle), 'c')
