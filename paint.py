@@ -10,7 +10,7 @@ Exercises
 
 Testing using GitHub
 Miguel Bustamante A01781583
-
+Gilberto Echeverria
 """
 
 from turtle import *
@@ -97,6 +97,7 @@ onkey(lambda: color('blue'), 'B')
 onkey(lambda: color('red'), 'R')
 onkey(lambda: color('cyan'), 'C')
 onkey(lambda: color('yellow'), 'Y')
+onkey(lambda: color('magenta'), 'M')
 onkey(lambda: store('shape', line), 'l')
 onkey(lambda: store('shape', square), 's')
 onkey(lambda: store('shape', circle), 'c')
