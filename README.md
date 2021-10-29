@@ -11,3 +11,5 @@ Learning to use Github
 - paint.py
 	- Added magenta color
 	- Added rectangle function
+
+Testing with HTTPS access
