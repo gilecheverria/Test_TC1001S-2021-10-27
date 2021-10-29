@@ -66,9 +66,9 @@ def triangle(start, end):
     for count in range(3):
         forward(end.x - start.x)
         left(120)
-    
+
     end_fill
-    
+
 def tap(x, y):
     "Store starting point or draw shape."
     start = state['start']
